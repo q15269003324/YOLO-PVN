@@ -10,5 +10,5 @@ Before pruning, the split block in the C2f_PMS module needs to be converted to a
 
 
 Data:
-TT100K 数据集可在  https://pan.baidu.com/s/1LjipnZrPexyVvA53n7t0mw?pwd=q123  获取
+The TT100K dataset is available at https://pan.baidu.com/s/1LjipnZrPexyVvA53n7t0mw?pwd=q123
 
