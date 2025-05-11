@@ -1,1 +1,6 @@
-
+All the codes are tested in the following environment:
+Linux (Ubuntu 20.04)
+Python 3.10.15
+PyTorch 2.4.1
+CUDA 12.1
+NVIDIA RTX 3090
