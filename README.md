@@ -12,3 +12,8 @@ Before pruning, the split block in the C2f_PMS module needs to be converted to a
 Data:
 The TT100K dataset is available at https://pan.baidu.com/s/1LjipnZrPexyVvA53n7t0mw?pwd=q123
 
+
+Citation：
+If you use this work in your research, please cite our paper as follows:
+Mengmeng Qu, Zhanyu Wang, Xuejing Du. YOLO-PVN: Lightweight and Efficient Traffic Sign Detection for Real-Time Autonomous Systems
+Published in The Visual Computer, 2025.
