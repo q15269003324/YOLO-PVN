@@ -1,6 +1,5 @@
 Descriptive：
 YOLO-PVN: Lightweight and Efficient Traffic Sign Detection for Real-Time Autonomous Systems
-The Visual Computer
 
 
 Code:
